@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Some Page</title>
+  </head>
+  <body>
+    <h1>{{pageTitle}}</h1>
+    <p>Very helpful text here</p>
+    <footer>
+    <p>CopyRight {{thisYear}}</p>
+    </footer>
+  </body>
+</html>
